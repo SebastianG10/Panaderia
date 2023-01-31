@@ -1,0 +1,204 @@
+body{
+	background-image: URL(Imagenes/Img1.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+.nav{
+	width: 60%;
+	height: 80px;
+}
+.nav1{
+	width: 33%;
+	height: 80px;
+	float: right;
+}
+.nab1{
+	margin-top: 15px;
+	width: 50%;
+	height: 50%;
+	border: solid 5px;
+    background-color: RGB(244,239,225);
+	transition: 1s;
+}
+.nab1 a{
+	text-decoration: none;
+    position: relative;
+	top: 10px;
+	font-size: 20px;
+	transition: 1s;
+	color: black;
+	font-family: 'Archivo Black', sans-serif;
+font-family: 'Bevan', cursive;
+}
+.nab1:hover a{
+	font-size: 40px;
+	transition: 1s;
+}
+.nab1:hover{
+	margin-top: 0px;
+	width: 96%;
+	height:89%;
+	border-radius: 20px;
+	transition: 1s;
+}
+#nab3{
+	width: 96%;
+	height: 89%;
+	border: solid 5px;
+	border-radius: 20px;
+	background-color: RGB(244,239,225);
+}
+#s3{
+	text-decoration: none;
+    position: relative;
+	top: 10px;
+	font-size: 40px;
+	color: black;
+	font-family: 'Archivo Black', sans-serif;
+font-family: 'Bevan', cursive;
+} 
+
+
+
+
+
+.ser{
+	margin-left: -170px;
+	width: 152.5px;
+	height: 40px;
+	position: relative;
+	top: 190;
+	float: left;
+	border: solid 5px;
+	background-color: RGB(244,239,225);
+	border-radius: 20px 20px 0px 0px;
+}
+.int{
+	margin: 6px;
+	width: 152.5px;
+	height: 170px;
+	position: relative;
+	top: 240;
+	float: left;
+	border: solid 5px;
+	background-color: RGB(244,239,225);
+	border-radius: 0px 0px 20px 20px;
+}
+.gen{
+	width: 1000px;
+	height: 300px;
+	margin: 20px;
+	background-color: RGBA(244,239,225,0.7);
+	border: solid 5px;
+	border-radius: 30px 30px 0px 0px;
+}
+.map{
+	width: 50%;
+	height: 100%;
+	float: right;
+	border-radius: 30px;
+}
+.map iframe{
+	width: 100%;
+	height: 100%;
+	border-radius: 0px 25px 0px 0px;
+}
+.genz{
+width: 49.5%;
+height: 100%;
+background-color: RGB(244,239,225);
+float: left;
+border-right: solid 5px black;
+border-radius: 25px 0px 0px 0px;
+}
+.genz h1{
+margin: 40px;
+font-family: 'Indie Flower', cursive;
+font-family: 'Gloria Hallelujah', cursive;
+color: black;
+}
+.gen2{
+	width: 1000px;
+	height: 200px;
+	background-color: RGB(244,239,225);
+	border: solid 5px;
+	border-radius: 0px 0px 35px 35px;
+}
+.de{
+	width: 50%;
+	height: 100%;
+	float: right;
+	border-radius: 0px 0px 30px 30px;
+}
+.de h1{
+    margin: 10px;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+.de ul li{
+	display: inline-block;
+	padding: 10px;
+	margin: 10px;
+	font-size: 20px;
+}
+.de ul a{
+	color: RGB(244,134,0);
+	text-decoration: none;
+}
+#lz:hover{
+	text-decoration: underline;
+}
+
+
+.dy{
+	position: relative;
+	top: -60px;
+	margin-right: 20px;
+	float: right;
+	width: 30px;
+	height: 30px;
+	background-color: RGB(244,239,225);
+	border: solid 3px black;
+	border-radius: 40px;
+}
+.dy a{
+	position: relative;
+	top: 6px;
+	font-size: 20px;
+	text-decoration: none;
+	color: black;
+}
+.dy:hover{
+	border: solid 3px RGB(244,134,0);
+}
+.dy:hover a{
+    color: RGB(244,134,0);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
